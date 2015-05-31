@@ -1,10 +1,10 @@
 USDA
 ----
-USDA is a small go library to load USDA nutrition database.
+USDA is a small Go library to load the USDA nutrition database (sr_27).
 
 Sample usage
 ------------
-Please find sample usage in example directory. Note that this library is not complete and is put here for personal use mostly.
+Please find sample usage in the `example` directory. Note that this library is not complete and is put here for personal use mostly.
 
 License
 -------
